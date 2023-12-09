@@ -21,3 +21,6 @@ zookeper
 
 fafka vs bigquery
 https://medium.com/myheritage-engineering/kafka-to-bigquery-load-a-guide-for-streaming-billions-of-daily-events-cbbf31f4b737
+
+what is Data pipline?-IBM
+<https://www.ibm.com/topics/data-pipeline>
